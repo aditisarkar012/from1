@@ -1,2 +1,2 @@
-# from1
-from1-partice
+# form1
+for1-partice
